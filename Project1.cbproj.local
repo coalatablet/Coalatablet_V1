@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019-12-21 14:45:24.220,=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2019-12-21 14:45:25.708,=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2019-12-21 14:46:55.311,C:\RAD_Coala_Tablet\Coala_Tablet.cpp=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2019-12-21 14:46:55.311,C:\RAD_Coala_Tablet\Coala_Tablet.h=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2019-12-21 14:46:55.311,C:\RAD_Coala_Tablet\Coala_Tablet.fmx=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2019-12-21 14:46:57.438,C:\RAD_Coala_Tablet\Project1PCH1.h=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2019-12-21 14:46:58.567,C:\RAD_Coala_Tablet\Project1.cbproj=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.770,C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Location_ALL\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.770,C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Location_ALL\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.770,C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Location_ALL\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.132,=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.307,=C:\Users\strea\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.630,C:\Users\strea\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Location_ALL\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.365,C:\Users\strea\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Location_ALL\Project1.cbproj</Transaction>
   </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
 </BorlandProject>

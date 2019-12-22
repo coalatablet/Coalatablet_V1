@@ -7,7 +7,7 @@
 #pragma hdrstop
 #include <System.StartUpCopy.hpp>
 //---------------------------------------------------------------------------
-USEFORM("Coala_Tablet.cpp", Form1);
+USEFORM("Unit1.cpp", Form1);
 //---------------------------------------------------------------------------
 extern "C" int FMXmain()
 {
